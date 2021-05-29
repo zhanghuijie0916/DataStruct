@@ -14,7 +14,7 @@ public class Alibaba1 {
     public static int getnext(int i){
         // 测试解决冲突
 
-        System.out.println("我是决绝冲突之后的版本1");
+        System.out.println("我是决绝冲突之后的版本-下午2");
         if (i<=0){
             return 0;
         }
@@ -22,6 +22,7 @@ public class Alibaba1 {
             return 1;
         }
         else {
+            System.out.println("我是决绝冲突之后的版本-下午1");
             return getnext(i-1)+getnext(i-2);
         }
     }
