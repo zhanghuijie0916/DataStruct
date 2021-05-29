@@ -13,8 +13,7 @@ import java.util.regex.Pattern;
 public class Alibaba1 {
     public static int getnext(int i){
         // 测试解决冲突
-
-        System.out.println("我是决绝冲突之后的版本-下merge");
+        System.out.println("我是使用rebase合并的最终版本");
         if (i<=0){
             return 0;
         }

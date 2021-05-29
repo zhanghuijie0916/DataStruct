@@ -11,11 +11,12 @@ import java.util.Scanner;
 刚才我说了我要退款我都说了我要退款
  */
 public class Alibaba2 {
-    public static void reverseNumber(StringBuilder builder,int num){
-        System.out.println("我是决绝冲突之后的版本-下merge");
-        if(num!=0){
-            builder.append(num%10);
-            reverseNumber(builder,num/10);
+    public static void reverseNumber(StringBuilder builder,int num) {
+
+        System.out.println("我是使用rebase合并的最终版本");
+        if (num != 0) {
+            builder.append(num % 10);
+            reverseNumber(builder, num / 10);
         }
         System.out.println("我是决绝冲突之后的版本-下merge");
     }
