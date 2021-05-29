@@ -21,6 +21,7 @@ public class Alibaba3 {
     }
 
     public static void main(String[] args){
+        System.out.println("我是使用rebase合并的版本");
         Scanner scanner = new Scanner(System.in);
         int xHalfLen = scanner.nextInt();
         int yHalfLen = scanner.nextInt();
