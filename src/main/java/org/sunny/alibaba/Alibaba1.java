@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
 public class Alibaba1 {
     public static int getnext(int i){
         // 测试解决冲突
-        System.out.println("1234");
+        System.out.println("我是冲突的版本");
         if (i<=0){
             return 0;
         }
