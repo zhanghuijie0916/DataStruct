@@ -12,12 +12,12 @@ import java.util.Scanner;
  */
 public class Alibaba2 {
     public static void reverseNumber(StringBuilder builder,int num){
-        System.out.println("我是决绝冲突之后的版本-下stash2");
+        System.out.println("我是决绝冲突之后的版本-下merge");
         if(num!=0){
             builder.append(num%10);
             reverseNumber(builder,num/10);
         }
-        System.out.println("我是决绝冲突之后的版本-下stash2");
+        System.out.println("我是决绝冲突之后的版本-下merge");
     }
 
     public static void main(String[] args){
@@ -34,7 +34,7 @@ public class Alibaba2 {
             System.out.println(Arrays.toString(array));
 
         }catch (Exception e){
-            System.out.println(" stash");
+            System.out.println(" merge");
             e.printStackTrace();
         }
 

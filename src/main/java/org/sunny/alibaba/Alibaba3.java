@@ -5,7 +5,9 @@ import java.util.Scanner;
 public class Alibaba3 {
     private static int screw(int x,int y){
         int oo = Math.max(Math.abs(x),Math.abs(y)); //当前值所在的圈数值
+
         int max = (oo*2+1)*(oo*2+1);
+        System.out.println("我是决绝冲突之后的版本-下merge");
 
         if (y==-oo){
             return max+ x+y;  //上边
