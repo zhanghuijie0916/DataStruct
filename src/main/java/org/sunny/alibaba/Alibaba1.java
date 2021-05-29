@@ -14,7 +14,7 @@ public class Alibaba1 {
     public static int getnext(int i){
         // 测试解决冲突
 
-        System.out.println("我是冲突的版本2+1");
+        System.out.println("我是决绝冲突之后的版本1");
         if (i<=0){
             return 0;
         }

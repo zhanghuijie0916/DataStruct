@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 public class Alibaba2 {
     public static void reverseNumber(StringBuilder builder,int num){
-        System.out.println("我是冲突的版本2+2");
+        System.out.println("我是决绝冲突之后的版本2");
         if(num!=0){
             builder.append(num%10);
             reverseNumber(builder,num/10);
