@@ -6,6 +6,7 @@ public class Alibaba3 {
     private static int screw(int x,int y){
         int oo = Math.max(Math.abs(x),Math.abs(y)); //当前值所在的圈数值
         int max = (oo*2+1)*(oo*2+1);
+        System.out.println("我是使用rebase合并的版本");
 
         if (y==-oo){
             return max+ x+y;  //上边
@@ -19,6 +20,7 @@ public class Alibaba3 {
     }
 
     public static void main(String[] args){
+        System.out.println("我是使用rebase合并的版本");
         Scanner scanner = new Scanner(System.in);
         int xHalfLen = scanner.nextInt();
         int yHalfLen = scanner.nextInt();
