@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a288d615-3502-4fdc-af9c-2cf7ee644453" name="Default" comment="版本1">
+=======
+    <list default="true" id="a288d615-3502-4fdc-af9c-2cf7ee644453" name="Default" comment="test">
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
       <change beforePath="$PROJECT_DIR$/src/main/java/org/sunny/alibaba/Alibaba1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sunny/alibaba/Alibaba1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,7 +75,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/sunny/alibaba/SynchronousTest.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="486">
+=======
+            <state relative-caret-position="612">
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
               <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -87,7 +95,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/sunny/sorting/Sortings.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="702">
+=======
+            <state relative-caret-position="1404">
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
               <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
             </state>
           </provider>
@@ -96,7 +108,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/sunny/zijietiaodong/Zijie1.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="769">
+=======
+            <state relative-caret-position="1836">
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
               <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
             </state>
           </provider>
@@ -106,7 +122,11 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/org/sunny/alibaba/Alibaba1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
+<<<<<<< HEAD
               <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+=======
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -237,7 +257,11 @@
       </MavenImportingSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" fullScreen="true">
+=======
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
     <option name="x" value="47" />
     <option name="y" value="23" />
     <option name="width" value="1393" />
@@ -265,8 +289,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scope" />
+=======
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -355,12 +382,21 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622264478475" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622264410059" />
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -626,12 +662,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622263809094</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00005" summary="版本1">
       <created>1622264038029</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
       <updated>1622264038029</updated>
+=======
+    <task id="LOCAL-00005" summary="test">
+      <created>1622264201188</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622264201188</updated>
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
     </task>
     <option name="localTasksCounter" value="6" />
     <servers />
@@ -672,10 +717,17 @@
     <option name="totallyTimeSpent" value="367299000" />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553648" />
+=======
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25035766" />
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -691,7 +743,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5025381" side_tool="true" weight="0.24494949" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="9" />
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
       <window_info anchor="bottom" id="Messages" order="10" weight="0.13383839" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -710,6 +766,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
+<<<<<<< HEAD
     <MESSAGE value="版本1" />
     <option name="LAST_COMMIT_MESSAGE" value="版本1" />
   </component>
@@ -754,6 +811,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/org/sunny/interview/todaytop/top1.java">
@@ -1084,7 +1144,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/sunny/alibaba/SynchronousTest.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="486">
+=======
+        <state relative-caret-position="612">
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
           <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1098,14 +1162,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/sunny/sorting/Sortings.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="702">
+=======
+        <state relative-caret-position="1404">
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
           <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/sunny/zijietiaodong/Zijie1.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="769">
+=======
+        <state relative-caret-position="1836">
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
           <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
         </state>
       </provider>
@@ -1113,7 +1185,11 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/org/sunny/alibaba/Alibaba1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
+<<<<<<< HEAD
           <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+=======
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+>>>>>>> 60dc4ac407383e4cb6502761333e151fbfcd7e74
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
