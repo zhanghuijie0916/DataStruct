@@ -12,6 +12,7 @@ import java.util.Scanner;
  */
 public class Alibaba2 {
     public static void reverseNumber(StringBuilder builder,int num){
+        System.out.println("制造两个冲突");
         if(num!=0){
             builder.append(num%10);
             reverseNumber(builder,num/10);
