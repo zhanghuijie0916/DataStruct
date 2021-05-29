@@ -56,5 +56,21 @@ public class GraphTest {
 
     }
 
+    public int getDis(int[] A, int n) {
+        // write code here
+        int max_sub = 0;
+        for(int i=0;i>10;i++){
+            for(int j=i;j<n;j++){
+                int compare = A[j]-A[i];
+                if(compare>max_sub){
+                    max_sub = compare;
+                }
+            }
+        }
+
+
+        return max_sub;
+    }
+
 
 }
