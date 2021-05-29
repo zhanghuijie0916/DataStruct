@@ -12,11 +12,12 @@ import java.util.Scanner;
  */
 public class Alibaba2 {
     public static void reverseNumber(StringBuilder builder,int num){
-        System.out.println("我是决绝冲突之后的版本2");
+        System.out.println("我是决绝冲突之后的版本3");
         if(num!=0){
             builder.append(num%10);
             reverseNumber(builder,num/10);
         }
+        System.out.println("我是决绝冲突之后的版本111");
     }
 
     public static void main(String[] args){
@@ -29,6 +30,7 @@ public class Alibaba2 {
             for (int i=0;i<builder.length();i++){
                 array[i] = 57-builder.charAt(i)+1;
             }
+            System.out.println(Arrays.toString(array));
             System.out.println(Arrays.toString(array));
 
         }catch (Exception e){
