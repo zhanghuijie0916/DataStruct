@@ -13,12 +13,12 @@ import java.util.Scanner;
 public class Alibaba2 {
     public static void reverseNumber(StringBuilder builder,int num) {
 
-        System.out.println("我是使用rebase合并的最终版本");
+        System.out.println("我是使用dev合并的最终版本");
         if (num != 0) {
             builder.append(num % 10);
             reverseNumber(builder, num / 10);
         }
-        System.out.println("我是决绝冲突之后的版本-下merge");
+        System.out.println("我是决绝冲突之后的版本-下dev");
     }
 
     public static void main(String[] args){
@@ -35,7 +35,7 @@ public class Alibaba2 {
             System.out.println(Arrays.toString(array));
 
         }catch (Exception e){
-            System.out.println(" merge");
+            System.out.println(" dev");
             e.printStackTrace();
         }
 
