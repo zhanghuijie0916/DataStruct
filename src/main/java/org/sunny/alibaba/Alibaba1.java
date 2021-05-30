@@ -21,13 +21,13 @@ public class Alibaba1 {
             return 1;
         }
         else {
-            System.out.println("master");
+            System.out.println("我是使用master合并的最终版本");
             return getnext(i-1)+getnext(i-2);
         }
     }
 
     public static void main(String[] args){
-        System.out.println("我是决绝冲突之后的版本4master");
+        System.out.println("我是决绝冲突之后的版本master");
         System.out.println(getnext(30));
 
     }
