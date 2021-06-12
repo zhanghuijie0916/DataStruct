@@ -18,7 +18,7 @@ public class Alibaba2 {
             builder.append(num % 10);
             reverseNumber(builder, num / 10);
         }
-        System.out.println("我是决绝冲突之后的版本-下master");
+        System.out.println("2我是决绝冲突之后的版本-下master");
     }
 
     public static void main(String[] args){
