@@ -43,10 +43,10 @@ public class Alibaba5 {
             }
 
             if (xdiff<1){
-                nextX = "WEST";
+                nextX = "111WEST";
             }
             else{
-                nextX = "EAST";
+                nextX = "111EAST";
             }
             if (ydiff<1){
                 nextY = "SOUTH";

@@ -7,7 +7,7 @@ public class Alibaba3 {
         int oo = Math.max(Math.abs(x),Math.abs(y)); //当前值所在的圈数值
 
         int max = (oo*2+1)*(oo*2+1);
-        System.out.println("我是使用merge合并的版本");
+        System.out.println("11我是使用merge合并的版本");
 
         if (y==-oo){
             return max+ x+y;  //上边
@@ -21,7 +21,7 @@ public class Alibaba3 {
     }
 
     public static void main(String[] args){
-        System.out.println("我是使用merge合并的版本");
+        System.out.println("111我是使用merge合并的版本");
         Scanner scanner = new Scanner(System.in);
         int xHalfLen = scanner.nextInt();
         int yHalfLen = scanner.nextInt();
