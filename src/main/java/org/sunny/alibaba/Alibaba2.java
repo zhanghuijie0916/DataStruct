@@ -35,7 +35,7 @@ public class Alibaba2 {
             System.out.println(Arrays.toString(array));
 
         }catch (Exception e){
-            System.out.println(" master");
+            System.out.println(" 3master");
             e.printStackTrace();
         }
 
