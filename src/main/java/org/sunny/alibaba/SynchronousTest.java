@@ -16,7 +16,7 @@ class Producer implements Runnable{
             try {
                 int p = new Random().nextInt(1000);
                 queue.put(p);
-                System.out.println("生产型号:"+p);
+                System.out.println("222生产型号:"+p);
                 Thread.sleep(3);
             }catch (InterruptedException e){
                 e.printStackTrace();
@@ -35,7 +35,7 @@ class Consumer implements Runnable{
         while (true){
             try {
                 int p = queue.take();
-                System.out.println("消费型号:"+p);
+                System.out.println("111消费型号:"+p);
                 System.out.println("--------------");
             }catch (InterruptedException e){
                 e.printStackTrace();
