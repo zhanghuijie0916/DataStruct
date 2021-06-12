@@ -18,7 +18,7 @@ public class Alibaba2 {
             builder.append(num % 10);
             reverseNumber(builder, num / 10);
         }
-        System.out.println("1是使用master合并的最终版本");
+        System.out.println("2我是决绝冲突之后的版本-下master");
     }
 
     public static void main(String[] args){
@@ -35,7 +35,7 @@ public class Alibaba2 {
             System.out.println(Arrays.toString(array));
 
         }catch (Exception e){
-            System.out.println("1是使用master合并的最终版本");
+            System.out.println(" 3master");
             e.printStackTrace();
         }
 
