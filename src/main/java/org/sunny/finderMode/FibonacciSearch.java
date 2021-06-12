@@ -19,7 +19,7 @@ public class FibonacciSearch {
             return n==0?0:1;
         }
         else
-            return getF(n-1)+getF(n-2);
+            return getF(n-2)+getF(n-2);
     }
 
     public static int getIndndex(List<Integer> list,Integer len,Integer val){

@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
 public class Alibaba1 {
     public static int getnext(int i){
         // 测试解决冲突
-        System.out.println("我是使用master合并的最终版本");
+        System.out.println("我是决绝冲突之后的版本-下 dev merge master");
         if (i<=0){
             return 0;
         }
@@ -21,13 +21,13 @@ public class Alibaba1 {
             return 1;
         }
         else {
-            System.out.println("我是使用master合并的最终版本");
+            System.out.println("我是决绝冲突之后的版本-下 dev merge master");
             return getnext(i-1)+getnext(i-2);
         }
     }
 
     public static void main(String[] args){
-        System.out.println("我是决绝冲突之后的版本master");
+        System.out.println("我是决绝冲突之后的版本-下 dev merge master");
         System.out.println(getnext(30));
 
     }
